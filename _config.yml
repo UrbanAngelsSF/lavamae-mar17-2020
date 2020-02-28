@@ -1,0 +1,11 @@
+# header info
+title: team infoshare
+author: uaSF_outREACH_team
+email: uaSF@UrbanAngelsSF.org
+description: prep info for LavaMae Popup Care Village Tuesday March 17 2020
+twitter_username: tbd
+github_username:  UrbanAngelsSF
+
+# Build settings
+markdown: kramdown
+theme: minima
