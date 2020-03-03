@@ -8,7 +8,7 @@ title: 01_overview
 
 uaSF participates regularly in the `Lavamae Popup Care Village` system
   - clothing for both San Francisco (odd-numbered month) and Oakland (even-numbered month) events
-  - volunteers for San Francisco (odd-number month) events at the main library, 100 Larkin Street
+  - volunteers for San Francisco (odd-numbered month) events at the main library, 100 Larkin Street
 
 # Clothing
 
