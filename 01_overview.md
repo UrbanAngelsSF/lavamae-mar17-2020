@@ -44,7 +44,7 @@ ongoing year-round
   - after hours, bin for drop-off at the same location (outside, to the left of the front door)
   - pickup can be arranged for 3+ bags of clothing
 
-### phase 3 -- sortANDfold event(s)
+### phase 3 -- [sortANDfold event(s)](https://urbanangelssf.github.io/lavamae-mar17-2020/03_sortANDfold.html)
 
 10:30am Saturday March 14 at the UrbanAngelsSF.org office (5228 Diamond Heights Blvd)
 
